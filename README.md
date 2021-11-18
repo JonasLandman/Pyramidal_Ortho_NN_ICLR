@@ -1,7 +1,8 @@
 # Pyramidal_Ortho_NN_ICLR
 
 ICLR2022 Paper Submission: Classical and Quantum Algorithms for Orthogonal Neural Networks 
-to run the file:
+
+To run the simulation:
 
 `$pip install requirements.txt`
 
