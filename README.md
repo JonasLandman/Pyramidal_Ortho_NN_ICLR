@@ -4,5 +4,7 @@ ICLR2022 Paper Submission: Classical and Quantum Algorithms for Orthogonal Neura
 to run the file:
 
 `$pip install requirements.txt`
+
 `$jupyter notebook`
+
 Then run the notebook `Quantum Orthogonal NN simulations.ipynb`
