@@ -1,7 +1,3 @@
-# import quasar
-# import qcware_algorithms
-# from qcware_algorithms import blazar, qio, qutils, qML
-
 import json 
 import random
 import numpy as np
